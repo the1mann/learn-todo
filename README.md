@@ -1,4 +1,4 @@
-# learn-todo
+# Building a TODO List
 
 Welcome to the Code Club! Here's the beginning of your very first project. Before we start, here's a few things to do first before we get started:
 
