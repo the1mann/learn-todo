@@ -24,10 +24,10 @@ A customer of yours is terribly unorganised and asks you to build a TO DO app to
 - As a user, I want to be able to mark a item as done
 
 ## Extension Challenges:
-- Easy 		When you close the app and reopen it, the items persist
-- Easy 		Set a due date for each item
-- Medium 	A button to sort list by name, date due and date created
-- Hard		Convert to an [Electron app](http://electron.atom.io/)
+- Easy: 		When you close the app and reopen it, the items persist
+- Easy: 		Set a due date for each item
+- Medium: 	A button to sort list by name, date due and date created
+- Hard:		Convert to an [Electron app](http://electron.atom.io/)
 
 ## Geting Started:
 For this project, *we'll be developing in a web browser with HTML and Javascript*. I highly recommend using Chrome and getting familiar with the [inbuilt development tools](https://developer.chrome.com/devtools).
