@@ -11,9 +11,13 @@ Here are also things to keep in mind:
 - Take things at your own pace, while competition is good *respect that we are all at different levels*.
 - Each week they'll be a basic task along with some additional challenges if you feel like stretching yourself. There are rumours that they'll be a lame prize somewhere down the line...
 
-
 _____
 
+Table of Contents:
+- [Week 1](#week-1)
+- [Week 2](#week-2)
+
+_____
 
 
 # Week 1: 
@@ -24,8 +28,8 @@ A customer of yours is terribly unorganised and asks you to build a TO DO app to
 - As a user, I want to be able to mark a item as done
 
 ## Extension Challenges:
-- Easy: 		When you close the app and reopen it, the items persist
-- Easy: 		Set a due date for each item
+- Easy: 	When you close the app and reopen it, the items persist
+- Easy: 	Set a due date for each item
 - Medium: 	A button to sort list by name, date due and date created
 - Hard:		Convert to an [Electron app](http://electron.atom.io/)
 
@@ -51,4 +55,10 @@ Other Recommendations:
 
 ## Due Date
 If you would like your work reviewed, and would like to score some points for completing challenges then submit your repo via the #review channel on Slack. Deadline closes 11:59pm 28th February (Sunday Night).
+
+_____
+
+
+# Week 2: 
+Coming.. next week!
 
