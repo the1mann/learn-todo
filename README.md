@@ -30,7 +30,7 @@ A customer of yours is terribly unorganised and asks you to build a TO DO app to
 
 ## Extension Challenges:
 - Easy: 	When you close the app and reopen it, the items persist
-- Easy: 	Set a due date for each item
+- Medium: 	Set a due date for each item
 - Medium: 	A button to sort list by name, date due and date created
 - Hard:		Convert to an [Electron app](http://electron.atom.io/)
 
@@ -54,7 +54,7 @@ Other Recommendations:
 Don't know Javascript? That's okay. Here is a [tutorial to get started with](https://www.codecademy.com/learn/javascript).
 
 ### 3. Use Some Helper Libraries
-Writing plain javascript just isn't fun. I recommend trying to use either [jQuery](https://jquery.com/) or [Mithril](https://lhorie.github.io/mithril/getting-started.html).
+Writing plain javascript just isn't fun. I recommend trying to use either [jQuery](https://jquery.com/) or [Mithril](https://lhorie.github.io/mithril/getting-started.html). [Here is another decent intro for Mithril](http://ratfactor.com/daves-guide-to-mithril-js?/shire). 
 
 If you get stuck, remember you can always *search up a guide* on how to make a simple todo app. There's no shame ;) There are a lot of guides.
 
@@ -62,7 +62,7 @@ If you'd like to try something a bit more complex/heavy, perhaps try [Angular](h
 
 
 ## Due Date
-If you would like your work reviewed, and would like to score some points for completing challenges then submit your repo via the #review channel on Slack. Deadline closes 11:59pm 28th February (Sunday Night).
+If you would like your work reviewed, and would like to score some points for completing challenges then submit your Github repo via the #review channel on Slack. Deadline closes 11:59pm 28th February (Sunday Night).
 
 _____
 
