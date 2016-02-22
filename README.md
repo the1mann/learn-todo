@@ -50,5 +50,5 @@ Other Recommendations:
 
 
 ## Due Date
-If you are, then things are probably going to be 3x easier for managing projects. Chat to me and I can give you some specific advice.
+If you would like your work reviewed, and would like to score some points for completing challenges then submit your repo via the #review channel on Slack. Deadline closes 11:59pm 28th February (Sunday Night).
 
