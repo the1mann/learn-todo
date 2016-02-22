@@ -8,7 +8,7 @@ Welcome to the Code Club! Here's the beginning of your very first project. Befor
 Here are also things to keep in mind:
 - Stuck? Use google. There are many solutions to the problem/thing you don't know. There are many people on the internet smarter then us.
 - Don't forget to ask for help on the Slack chat. And if you *know the answer*, **why not help out a bro**.
-- Take things at your own pace
+- Take things at your own pace, while competition is good *respect that we are all at different levels*.
 - Each week they'll be a basic task along with some additional challenges if you feel like stretching yourself. There are rumours that they'll be a lame prize somewhere down the line...
 
 
@@ -30,7 +30,7 @@ A customer of yours is terribly unorganised and asks you to build a TO DO app to
 - Hard		Convert to an [Electron app](http://electron.atom.io/)
 
 ## Geting Started:
-For this project, we'll be developing in a web browser. I highly recommend using Chrome and getting familiar with the [inbuilt development tools](https://developer.chrome.com/devtools).
+For this project, *we'll be developing in a web browser with HTML and Javascript*. I highly recommend using Chrome and getting familiar with the [inbuilt development tools](https://developer.chrome.com/devtools).
 
 To build this web app, you can *use anything*. However for some, you're being thrown into the deep end so I'll make some suggestions:
 
@@ -49,6 +49,6 @@ Other Recommendations:
 - IntelliJ 
 
 
-### Using Mac/Linux?
+## Due Date
 If you are, then things are probably going to be 3x easier for managing projects. Chat to me and I can give you some specific advice.
 
