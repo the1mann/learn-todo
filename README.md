@@ -15,8 +15,10 @@ _____
 
 ##Table of Contents:
 
-- [Week 1](#week-1)
-- [Week 2](#week-2)
+- [Week 1: The Basics](#week-1)
+- [Week 2: ?](#week-2)
+- Week 3: Interface 
+- Week 4: User Accounts
 
 _____
 
@@ -39,9 +41,12 @@ For this project, *we'll be developing in a web browser with HTML and Javascript
 
 To build this web app, you can *use anything*. However for some, you're being thrown into the deep end so I'll make some suggestions:
 
-### 1. Use a web framework
-Using a framework will make it much easier to expand out your app to be more complex over time. It also means that there is a large amount of help available online <3.
-My recommendations are [Angular](https://angularjs.org/) or [React](https://facebook.github.io/react/). I personally have more experience with Angular and can give you specific assistance. For this project I recommend sticking to Angular 1.4.
+### 1. Use some helpers
+Writing plain javascript just isn't fun. I recommend trying to use either [jQuery](https://jquery.com/) or [Mithril](https://lhorie.github.io/mithril/getting-started.html).
+
+If you get stuck, remember you can always *search up a guide* on how to make a simple todo app. There's no shame ;) There are a lot of guides.
+
+If you'd like to try something a bit more complex/heavy, perhaps try [Angular](https://angularjs.org/) or [React](https://facebook.github.io/react/). I personally have more experience with Angular and can give you specific assistance. For this project I recommend sticking to Angular 1.4.
 
 ### 2. Get a Good Text Editor
 
