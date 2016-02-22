@@ -7,7 +7,7 @@ Welcome to the Code Club! Here's the beginning of your very first project. Befor
 
 Here are also things to keep in mind:
 - *Stuck?* Use Google. There are many solutions to the problem/thing you don't know. There are many people on the internet smarter then us.
-- Don't forget *to ask for help* on the Slack chat. And if you *know the answer*, ** help out a bro**.
+- Don't forget *to ask for help* on the Slack chat. And if you *know the answer*, help out a bro.
 - Take things at your own pace, while competition is good, *respect that we are all at different levels*.
 - Each week there will be minimum goal, along with some additional challenges if you feel like stretching yourself. There are rumours that there will be a lame prize somewhere down the line...
 
