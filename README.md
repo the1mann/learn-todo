@@ -107,7 +107,7 @@ If you like a hard challenge, you can choose to build the backend yourself. Good
 
 
 ## Due Date
-If you would like your work reviewed, and would like to score some points for completing challenges then submit your Github repo via the #review channel on Slack. Deadline closes 11:59pm 4th March (Sunday Night). You will need to provide in your readme either how I can login or create an account (not required).
+If you would like your work reviewed, and would like to score some points for completing challenges then submit your Github repo via the #review channel on Slack. Deadline closes 11:59pm 18th March (Sunday Night). You will need to provide in your readme either how I can login or create an account (not required).
 
 ______
 
